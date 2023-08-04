@@ -12,13 +12,13 @@ namespace UnityBuilderAction
     {
         private static readonly string Eol = Environment.NewLine;
         private static string APP_NAME = "AnimeFenix";
-        private static string COMPANY_NAME = "1691084216627816027451";
+        private static string COMPANY_NAME = "1691118282804945909317";
         private static string BUILD_VERSION_NAME = "1.0.0";
         private static string PACKAGENAME = "net.animefenix.vip";
         private static string PATH_KEYSTORE = "data.keystore";
-        private static string KEYSTORE_PASS = "hdlpro";
-        private static string KEY_ALIAS_NAME = "hdlpro";
-        private static string KEY_ALIAS_PASS = "hdlpro";
+        private static string KEYSTORE_PASS = "mandiri";
+        private static string KEY_ALIAS_NAME = "mandiri";
+        private static string KEY_ALIAS_PASS = "mandiri";
 
         private static readonly string[] Secrets =
             {"androidKeystorePass", "androidKeyaliasName", "androidKeyaliasPass"};
